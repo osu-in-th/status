@@ -8,7 +8,7 @@ sites:
   - name: เว็บไซต์
     url: https://โอสุ.ไทย
   - name: CDN
-    url: https://static.osu.in.th
+    url: https://static.osu.in.th/index.html
   - name: Mirror
     url: https://mirror.osu.in.th
   - name: UpLink
