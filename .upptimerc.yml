@@ -20,7 +20,7 @@ status-website:
   cname: status.osu.in.th
   # baseUrl: /your-repo-name
   logoUrl: https://static.osu.in.th/svg/osu.in.th.svg
-  name: Osu.in.th
+  name: Service Status - osu.in.th
   introTitle: "Thai Osu! Developer Community"
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
