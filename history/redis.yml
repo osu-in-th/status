@@ -1,7 +1,7 @@
 url: https://ping.ponlponl123.com/redis
-status: up
-code: 200
-responseTime: 706
-lastUpdated: 2026-05-06T04:01:54.084Z
+status: down
+code: 523
+responseTime: 284
+lastUpdated: 2026-05-06T20:40:21.968Z
 startTime: 2025-06-16T15:06:34.194Z
 generator: Upptime <https://github.com/upptime/upptime>
