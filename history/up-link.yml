@@ -1,7 +1,7 @@
 url: https://uplink.osu.in.th
-status: down
-code: 403
-responseTime: 52
-lastUpdated: 2026-05-05T23:38:58.896Z
+status: up
+code: 200
+responseTime: 845
+lastUpdated: 2026-05-06T04:01:53.044Z
 startTime: 2025-06-16T12:55:28.978Z
 generator: Upptime <https://github.com/upptime/upptime>
