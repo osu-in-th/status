@@ -13,7 +13,7 @@
     "time": 626,
     "timeDay": 502,
     "timeWeek": 488,
-    "timeMonth": 401,
+    "timeMonth": 403,
     "timeYear": 626,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 381,
     "timeDay": 48,
     "timeWeek": 92,
-    "timeMonth": 219,
+    "timeMonth": 217,
     "timeYear": 381,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 525,
     "timeDay": 536,
     "timeWeek": 413,
-    "timeMonth": 358,
+    "timeMonth": 367,
     "timeYear": 525,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 568,
     "timeDay": 488,
     "timeWeek": 2370,
-    "timeMonth": 923,
+    "timeMonth": 941,
     "timeYear": 568,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 449,
     "timeDay": 478,
     "timeWeek": 388,
-    "timeMonth": 321,
+    "timeMonth": 320,
     "timeYear": 449,
     "dailyMinutesDown": {}
   },
@@ -112,17 +112,17 @@
     "url": "https://ping.ponlponl123.com/redis",
     "icon": "https://icons.duckduckgo.com/ip3/ping.ponlponl123.com.ico",
     "slug": "redis",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 389,
-    "timeDay": 10111,
-    "timeWeek": 2063,
-    "timeMonth": 748,
-    "timeYear": 389,
+    "time": 390,
+    "timeDay": 6923,
+    "timeWeek": 1937,
+    "timeMonth": 760,
+    "timeYear": 390,
     "dailyMinutesDown": {}
   }
 ]
