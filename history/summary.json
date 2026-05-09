@@ -112,17 +112,17 @@
     "url": "https://ping.ponlponl123.com/redis",
     "icon": "https://icons.duckduckgo.com/ip3/ping.ponlponl123.com.ico",
     "slug": "redis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 391,
-    "timeDay": 6974,
-    "timeWeek": 1990,
-    "timeMonth": 758,
-    "timeYear": 391,
+    "time": 448,
+    "timeDay": 10159,
+    "timeWeek": 3353,
+    "timeMonth": 1285,
+    "timeYear": 448,
     "dailyMinutesDown": {}
   }
 ]
